@@ -10,7 +10,7 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 
 | Nume și prenume | Utilizator GitHub | Program | Rol inițial (s3-s6) | Rol 2 (s6-s10) | Rol 3 (s10-s14) |
 | --- | --- | --- | --- | --- | --- |
-|  `Indre Timea`  |   `TimeaIndre`  | MI | coordonator | | |
+|  `Chis Cosmina`  |   `coschi90`  | MI | coordonator | | |
 |  `Indre Timea`  |   `TimeaIndre`  | MI | responsabil depozit | | |
 | `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil raport | | |
 | `Feher Dominique` | `dodi096` | MI | responsabil date și notebook | | |
