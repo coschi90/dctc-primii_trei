@@ -12,8 +12,8 @@ Disciplina *Dezvoltare colaborativă și tehnologii cloud* (DCTC), Universitatea
 | --- | --- | --- | --- | --- | --- |
 |  `Indre Timea`  |   `TimeaIndre`  | MI | coordonator | | |
 |  `Indre Timea`  |   `TimeaIndre`  | MI | responsabil depozit | | |
-| `<Nume Prenume>` | `<utilizator>` | MI / INF | responsabil raport | | |
-| `Feher Dominique` | `dodi096` | MI | responsabil date și notebook | | |
+| `Feher Dominique` | `dodi096` | MI / INF | responsabil raport | | |
+| `Chis Cosmina` | `coschi90` | MI | responsabil date și notebook | coordonator | |
 
 ## Tema
 
